@@ -1,3 +1,5 @@
+## Following are steps to complete the assignment:
+
 1.Prompts the user to enter their age and name.
 2.Prompts the user to specify where in the drawing to place the information.
 3.Constructs two text strings, one showing the age and the other showing the name.
