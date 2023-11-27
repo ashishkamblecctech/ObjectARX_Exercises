@@ -1,3 +1,4 @@
+## Following are steps for completion of assignment:
 This code defines a function called changeColor that, when executed, 
 allows the user to select objects in AutoCAD and change their color.
 
