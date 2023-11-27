@@ -1,3 +1,4 @@
+## Following are steps for completion of assignment:
 This code defines a function called inputLine that, when executed,
 prompts the user to input two points and creates a line based on these points in the current space of the AutoCAD drawing.
 
