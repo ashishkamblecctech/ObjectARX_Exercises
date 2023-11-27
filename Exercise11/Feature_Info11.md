@@ -1,3 +1,4 @@
+## Following are steps used to complete the assignment:
 This code defines a function called commandAndSysVar that performs the following tasks in AutoCAD using AutoLISP functions:
 
 1.Retrieves the current value of the CIRCLERAD system variable using acedGetVar and displays it using acutPrintf.
