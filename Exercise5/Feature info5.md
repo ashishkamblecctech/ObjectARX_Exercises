@@ -1,3 +1,4 @@
+## Following are steps for completion of assignment:
 The makeLayer function is designed to create a new layer named "OBJ" within the current AutoCAD drawing upon execution,
 if such a layer does not already exist. 
 The code first checks the Layer Table for the presence of a layer named "OBJ." 
