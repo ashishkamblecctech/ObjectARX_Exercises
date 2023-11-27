@@ -1,3 +1,4 @@
+## Following are steps for completion of assignment:
 Defined a function named "MyCommand" to display the message "Hello <Name> in the world of AutoCAD" when
 the user enters the command in the AutoCAD command line.
 
